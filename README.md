@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lees20
+- 👋 Hi, I’m @panteliskarabetsos
 - 👀 I’m interested in software development 
 - 🌱 You can check my work here
 - 📫 Can reach me at contact@pkarabetsos.com
